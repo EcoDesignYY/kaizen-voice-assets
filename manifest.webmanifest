@@ -1,0 +1,21 @@
+{
+  "name": "KAIZEN VOICE",
+  "short_name": "KAIZEN VOICE",
+  "start_url": "/kaizen-voice-assets/",
+  "scope": "/kaizen-voice-assets/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/kaizen-voice-assets/kaizenvoice-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/kaizen-voice-assets/kaizenvoice-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
